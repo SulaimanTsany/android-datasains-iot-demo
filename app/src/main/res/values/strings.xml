@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DataSains-demo</string>
+    <string name="title_activity_result">Data Sains IoT</string>
 </resources>

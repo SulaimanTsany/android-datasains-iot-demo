@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="switch_track_height">70dp</dimen>
+    <dimen name="switch_thumb_radius">150dp</dimen>
+</resources>
